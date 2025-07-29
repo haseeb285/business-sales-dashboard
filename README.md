@@ -25,4 +25,4 @@ This project analyzes Superstore sales data to uncover trends and actionable ins
 👉 [View on Tableau Public](https://public.tableau.com/views/SuperstoreSalesPerformanceDashboard_17538155333770/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📸 Screenshots  
-![Dashboard Screenshot](images/dashboard_screenshot1.png)
+![Dashboard Screenshot](Superstore_Analysis_Dashbord.png)
